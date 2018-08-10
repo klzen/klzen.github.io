@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uva on AC之路</title>
-    <link>http://klzen.github.io/categories/uva/</link>
+    <link>https://klzen.github.io/categories/uva/</link>
     <description>Recent content in Uva on AC之路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 10 Aug 2018 07:39:19 +0800</lastBuildDate>
     
-	<atom:link href="http://klzen.github.io/categories/uva/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klzen.github.io/categories/uva/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2014 04 02 Uva 401 Palindrome</title>
-      <link>http://klzen.github.io/posts/2014-04-02-uva-401-palindrome/</link>
+      <link>https://klzen.github.io/posts/2014-04-02-uva-401-palindrome/</link>
       <pubDate>Fri, 10 Aug 2018 07:39:19 +0800</pubDate>
       
-      <guid>http://klzen.github.io/posts/2014-04-02-uva-401-palindrome/</guid>
+      <guid>https://klzen.github.io/posts/2014-04-02-uva-401-palindrome/</guid>
       <description>问题简介 给定一段由字符与数字组成的字符串，判断它是否是回文字。
 如果组成字符串的全部都是自反：如A，T这样的字符，则为mirrored palindrome
 或者由E3等mirror字符组成的，则为mirrored string
