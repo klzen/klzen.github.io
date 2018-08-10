@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdu on AC之路</title>
+    <link>http://klzen.github.io/categories/hdu/</link>
+    <description>Recent content in Hdu on AC之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Aug 2018 07:53:42 +0800</lastBuildDate>
+    
+	<atom:link href="http://klzen.github.io/categories/hdu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HDU 2138-How many primes?</title>
+      <link>http://klzen.github.io/posts/2014-04-05-hdu-2138/</link>
+      <pubDate>Fri, 10 Aug 2018 07:53:42 +0800</pubDate>
+      
+      <guid>http://klzen.github.io/posts/2014-04-05-hdu-2138/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51  #include &amp;lt;iostream&amp;gt;#include &amp;lt;algorithm&amp;gt;#include &amp;lt;numeric&amp;gt;#include &amp;lt;bitset&amp;gt;#include &amp;lt;vector&amp;gt;#include &amp;lt;stack&amp;gt;#include &amp;lt;cstdio&amp;gt;#include &amp;lt;cstring&amp;gt;#include &amp;lt;cmath&amp;gt; using namespace std; #define fe(i, a, b) for (int i = int(a); i &amp;lt;= int(b); i++) #define fu(i, a, b) for (int i = int(a); i &amp;lt; int(b); i++) typedef vector&amp;lt;int&amp;gt; vi; typedef vector&amp;lt;vi&amp;gt; vvi; typedef vector&amp;lt;bool&amp;gt; vb; typedef vector&amp;lt;vb&amp;gt; vvb; typedef pair&amp;lt;int, int&amp;gt; pii; #define pb push_back #define mp make_pair  bool prime(int a) { if (a &amp;lt; 2) return false; if (a == 2 || a == 3) return true; if (!</description>
+    </item>
+    
+    <item>
+      <title>2014 03 30 First Post</title>
+      <link>http://klzen.github.io/posts/2014-03-30-first-post/</link>
+      <pubDate>Fri, 10 Aug 2018 07:33:59 +0800</pubDate>
+      
+      <guid>http://klzen.github.io/posts/2014-03-30-first-post/</guid>
+      <description>hdu/saving_hdu.cpp 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63  // 2014年 3月29日 星期六 08时31分21秒 CST #include &amp;lt;iostream&amp;gt;#include &amp;lt;algorithm&amp;gt;#include &amp;lt;numeric&amp;gt;#include &amp;lt;bitset&amp;gt;#include &amp;lt;vector&amp;gt;#include &amp;lt;stack&amp;gt;#include &amp;lt;cstdio&amp;gt;#include &amp;lt;cstring&amp;gt;#include &amp;lt;cmath&amp;gt; using namespace std; #define fe(i, a, b) for (int i = int(a); i &amp;lt;= int(b); i++) #define fu(i, a, b) for (int i = int(a); i &amp;lt; int(b); i++) typedef vector&amp;lt;int&amp;gt; vi; typedef vector&amp;lt;vi&amp;gt; vvi; typedef vector&amp;lt;bool&amp;gt; vb; typedef vector&amp;lt;vb&amp;gt; vvb; typedef pair&amp;lt;int, int&amp;gt; pii; #define pb push_back #define mp make_pair  struct M { int pi, mi; M(int p, int m) : pi(p), mi(m) {} bool operator&amp;lt;(const M another) const { return pi &amp;gt; another.</description>
+    </item>
+    
+  </channel>
+</rss>
